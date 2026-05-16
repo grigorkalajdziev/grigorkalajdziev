@@ -32,10 +32,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grigorkalajdziev&show_icons=true&locale=en&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grigorkalajdziev&show_icons=true&locale=en&layout=compact&theme=default&cache_seconds=1800" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grigorkalajdziev&show_icons=true&locale=en" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=grigorkalajdziev&show_icons=true&locale=en&theme=default&cache_seconds=1800" height="150"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=grigorkalajdziev" height="150"/>
