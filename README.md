@@ -41,28 +41,10 @@ I'm a full-stack developer passionate about building scalable web applications a
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,docker,mysql,oracle,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,docker,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 ### Deployment & Tools
 [![My Skills](https://skillicons.dev/icons?i=vercel,ps,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=grigorkalajdziev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=3600&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorkalajdziev&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=320&cache_seconds=3600&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" height="175"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app?user=grigorkalajdziev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" height="165"/>
 
 </div>
 
