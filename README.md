@@ -43,7 +43,7 @@ I'm a full-stack developer passionate about building scalable web applications a
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,docker,mysql,mssql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,docker,mongodb&theme=dark)](https://skillicons.dev)
 
 ### Deployment & Tools
 [![My Skills](https://skillicons.dev/icons?i=vercel,ps,git,github,vscode&theme=dark)](https://skillicons.dev)
