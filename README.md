@@ -1,44 +1,95 @@
-<h1 align="center">Hi 👋, I'm Grigor</h1>
-<h3 align="center">A passionate developer from Macedonia</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=grigorkalajdziev&label=Profile%20views&color=0e75b6&style=flat" alt="grigorkalajdziev" />
-</p>
+<div align="center">
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/григор-калајџиев-856a61407/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-<h3 align="center">Languages & Tools</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="30"/>
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30"/>
-</p>
+# Grigor Kalajdziev
 
-<h3 align="center">GitHub </h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grigorkalajdziev&no-frame=true&row=1&column=6" />
-</p>
+**Full-Stack Developer · Macedonia**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=grigorkalajdziev&hide_border=true" height="150"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/григор-калајџиев-856a61407/)
+[![Profile Views](https://komarev.com/ghpvc/?username=grigorkalajdziev&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/grigorkalajdziev)
+
+</div>
+
+---
+
+## About Me
+
+I'm a full-stack developer passionate about building scalable web applications and clean, maintainable code. I work across the entire stack — from crafting responsive frontends with Angular and React to designing robust backends with .NET and Node.js.
+
+- 🔭 Currently working with **React**, **TypeScript**, and **.NET**
+- 🌱 Exploring **cloud-native architecture** with Docker and Google Cloud
+- 💬 Ask me about **C#**, **JavaScript**, or **SQL**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/григор-калајџиев-856a61407/)
+
+---
+
+## Tech Stack
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dot-net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+
+### Database & Cloud
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Tools & Design
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=grigorkalajdziev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorkalajdziev&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=320" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=grigorkalajdziev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=grigorkalajdziev&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=grigorkalajdziev&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0e75b6&height=80&section=footer" width="100%"/>
+
+</div>
