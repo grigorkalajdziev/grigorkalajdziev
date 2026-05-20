@@ -41,10 +41,10 @@ I'm a full-stack developer passionate about building scalable web applications a
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,docker,mysql,postgres,oracle,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,docker,mysql,oracle,mongodb&theme=dark)](https://skillicons.dev)
 
 ### Deployment & Tools
-[![My Skills](https://skillicons.dev/icons?i=vercel,ps,matlab,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,ps,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
