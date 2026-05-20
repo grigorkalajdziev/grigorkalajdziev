@@ -27,9 +27,9 @@ I'm a full-stack developer passionate about building scalable web applications a
 ## Tech Stack
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -58,15 +58,15 @@ I'm a full-stack developer passionate about building scalable web applications a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=grigorkalajdziev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=grigorkalajdziev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=3600" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorkalajdziev&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=320" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorkalajdziev&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=320&cache_seconds=3600" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=grigorkalajdziev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
+<img src="https://nirzak-streak-stats.vercel.app?user=grigorkalajdziev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
 
 </div>
 
