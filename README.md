@@ -90,16 +90,6 @@ I'm a full-stack developer passionate about building scalable web applications a
 
 ---
 
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=grigorkalajdziev&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=100&section=footer&animation=twinkling" width="100%"/>
