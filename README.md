@@ -23,12 +23,15 @@
 
 I'm a full-stack developer with **10+ years of experience** building enterprise-level software — from ERP systems and financial platforms to modern web and mobile applications. My core is **.NET, C#, and SQL**, with hands-on experience across the full stack using Angular, React, Node.js, and TypeScript.
 
+- 🔭 Currently building a SaaS platform
 - 🏢 **Beelivio** `2024–2025` Angular · .NET · MVC · TypeScript (ISAC-APAVE project)
 - 🏢 **Enter DOO** `2016–2022` LUCA ERP · .NET · C# · SQL Server · SSRS ·
 - 🏢 **Infobiro** `2014–2015` CFMA ERP · VB.NET · SQL Server · Crystal Reports
 - 📡 **Makedonski Telekom** `2011–2014` VoIP · IPTV · ISDN2 · PBX
 - 🧪 **Seavus** `2009–2010` QA Tester · Regression · Functional · Automated testing
+- 🎓 Certified in **.NET FullStack**, **Full Stack Dev**, **React** & **Node.js** — Coursera & Udemy (2024)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/григоркалајџиев-856a61407)
+  
 
 ---
 
