@@ -21,12 +21,14 @@
 
 ## About Me
 
-I'm a full-stack developer passionate about building scalable web applications and clean, maintainable code. I work across the entire stack — from crafting responsive frontends with Angular and React to designing robust backends with .NET and Node.js.
+I'm a full-stack developer with **10+ years of experience** building enterprise-level software — from ERP systems and financial platforms to modern web and mobile applications. My core is **.NET, C#, and SQL**, with hands-on experience across the full stack using Angular, React, Node.js, and TypeScript.
 
-- 🔭 Currently working with **React**, **TypeScript**, and **.NET**
-- 🌱 Exploring **cloud-native architecture** with Docker and Google Cloud
-- 💬 Ask me about **C#**, **JavaScript**, or **SQL**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/григор-калајџиев-856a61407/)
+- 🏢 **Beelivio** `2024–2025` Angular · .NET · MVC · TypeScript (ISAC-APAVE project)
+- 🏢 **Enter DOO** `2016–2022` LUCA ERP · .NET · C# · SQL Server · SSRS ·
+- 🏢 **Infobiro** `2014–2015` CFMA ERP · VB.NET · SQL Server · Crystal Reports
+- 📡 **Makedonski Telekom** `2011–2014` VoIP · IPTV · ISDN2 · PBX
+- 🧪 **Seavus** `2009–2010` QA Tester · Regression · Functional · Automated testing
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/григоркалајџиев-856a61407)
 
 ---
 
