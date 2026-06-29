@@ -24,7 +24,7 @@
 I'm a full-stack developer with **10+ years of experience** building enterprise-level software — from ERP systems and financial platforms to modern web and mobile applications. My core is **.NET, C#, and SQL**, with hands-on experience across the full stack using Angular, React, Node.js, and TypeScript.
 
 - 🔭 Currently building a SaaS project
-- 🎓 **European University, Ohird** — B.Sc. Computer Engineering `2006–2009`
+- 🎓 **European University, Ohrid** — B.Sc. Computer Engineering `2006–2009`
 - 🏢 **Beelivio** `2024–2025` ISAC-APAVE · Angular · .NET · MVC · TypeScript 
 - 🏢 **Enter DOO** `2016–2022` LUCA ERP · .NET · C# · SQL Server · SSRS
 - 🏢 **Infobiro** `2014–2015` CFMA ERP · VB.NET · SQL Server · Crystal Reports
