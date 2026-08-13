@@ -31,8 +31,6 @@ I'm a full-stack developer with **10+ years of experience** building enterprise-
 - 🎓 **European University, Ohrid** — B.Sc. Computer Engineering `2006–2009`
 - 📜 Certified in **.NET FullStack**, **Full Stack Dev**, **React** & **Node.js** — Coursera & Udemy `2024`
 - 💬 Ask me about **C#**, **.NET**, **SQL Server**, or **JavaScript**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/григоркалајџиев-856a61407)
-  
 
 ---
 
