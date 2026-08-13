@@ -12,7 +12,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/григор-калајџиев-856a61407/)
 [![Profile Views](https://komarev.com/ghpvc/?username=grigorkalajdziev&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/grigorkalajdziev)
 
 </div>
