@@ -39,7 +39,7 @@ I'm a full-stack developer with **10+ years of experience** building enterprise-
 <div align="center">
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark)](https://skillicons.dev)
