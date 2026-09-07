@@ -48,7 +48,7 @@ I'm a full-stack developer with **10+ years of experience** building enterprise-
 
 ### Database & Cloud
 <a href="https://skillicons.dev">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL" /><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,azure,gcp,docker&theme=dark" height="48" alt="My Skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,azure,gcp,docker&theme=dark" height="48" alt="My Skills" />
 </a>
 </div>
 
