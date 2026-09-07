@@ -49,8 +49,8 @@ I'm a full-stack developer with **10+ years of experience** building enterprise-
 ### Database & Cloud
 [![My Skills](https://skillicons.dev/icons?i=firebase,gcp,docker,mongodb&theme=dark)](https://skillicons.dev)
 
-### Deployment & Tools
-[![My Skills](https://skillicons.dev/icons?i=vercel,ps,git,github,vscode&theme=dark)](https://skillicons.dev)
+### Database & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb,firebase,azure,gcp,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
