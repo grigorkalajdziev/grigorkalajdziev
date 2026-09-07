@@ -47,8 +47,9 @@ I'm a full-stack developer with **10+ years of experience** building enterprise-
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database & Cloud
-[![MSSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)](#)[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,azure,gcp,docker&theme=dark)](https://skillicons.dev)
-
+<a href="https://skillicons.dev">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL" /><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,azure,gcp,docker&theme=dark" height="48" alt="My Skills" />
+</a>
 </div>
 
 ---
