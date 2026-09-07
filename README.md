@@ -47,10 +47,7 @@ I'm a full-stack developer with **10+ years of experience** building enterprise-
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,docker,mongodb&theme=dark)](https://skillicons.dev)
-
-### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb,firebase,azure,gcp,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mssql,mysql,mongodb,firebase,azure,gcp,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
