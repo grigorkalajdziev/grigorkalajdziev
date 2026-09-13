@@ -52,14 +52,6 @@ I'm a full-stack developer with **10+ years of experience** building enterprise-
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grigorkalajdziev&bg_color=0d1117&color=00c6ff&line=0e75b6&point=00c6ff&area=true&area_color=0e75b6&hide_border=true&custom_title=Grigor's%20Contribution%20Graph" width="100%"/>
-
-</div>
-
 <div align="center">
 
 <picture>
